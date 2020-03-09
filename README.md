@@ -1,7 +1,7 @@
 # LearnGit
 Learning Git!
-
-Learning Git Commands
+Ping Pong
+Ting Ton
   Done Cloning
   Areas Untracted/Modified/Staged/Commit Done
   
